@@ -1,4 +1,4 @@
-# 🧠 Deep Learning Foundations
+# Deep Learning Foundations
 
 В данном разделе собраны практические работы по архитектуре и фундаментальным механизмам работы глубоких нейронных сетей (Deep Neural Networks). 
 
